@@ -336,8 +336,8 @@ hTTp://google.com
 HtTP://google.com
 
 HTTP://google.com
-https%3A%2F%2Fwww.google.com
 
+https%3A%2F%2Fwww.google.com
 
 https://evil.c℀.example.com 
 
