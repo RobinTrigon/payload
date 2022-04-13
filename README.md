@@ -3,9 +3,8 @@
 ###
 XSS BIBLE---> https://github.com/s0md3v/AwesomeXSS
 ```
-
 ### 
-
+```
 javascript:alert(1)
 ```
 ### 
