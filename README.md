@@ -2,11 +2,7 @@
 
 ###
 XSS BIBLE---> https://github.com/s0md3v/AwesomeXSS
-```
-### 
-```
--alert(1)-
-```
+
 ### 
 
 javascript:alert(1)
