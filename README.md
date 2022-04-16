@@ -23,7 +23,7 @@ javascript:alert(1)
 ### 
 
 ```
-"><u>XSS Vulnerability</u>
+\"-alert(1)}//
 ```
 ### 
 
