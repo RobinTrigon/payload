@@ -8,6 +8,10 @@ lol
 ```
 ###
 ```
+</script><script>alert(1)</script>
+```
+###
+```
 wrtz{{(_="".sub).call.call({}[$="\constructor"].getOwnPropertyDescriptor(_.__proto__,$).value,0,"alert(1)")()}}zzz\
 ```
 ###
