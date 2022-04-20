@@ -2,7 +2,22 @@
 
 ###
 XSS BIBLE---> https://github.com/s0md3v/AwesomeXSS
-
+###
+```
+lol
+```
+###
+```
+lol
+```
+###
+```
+lol
+```
+###
+```
+lol
+```
 ###
 ```
 -alert(1)-
