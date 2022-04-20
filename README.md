@@ -2,7 +2,7 @@
 
 ###
 XSS BIBLE---> https://github.com/s0md3v/AwesomeXSS
-### for website address box
+#### for website address box
 ```
 http://foo?&apos;-alert(1)-&apos;
 ```
