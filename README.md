@@ -4,7 +4,7 @@
 XSS BIBLE---> https://github.com/s0md3v/AwesomeXSS
 ###
 ```
-lol
+"><div onpointermove="alert(45)">MOVE HERE</div>'
 ```
 ###
 ```
