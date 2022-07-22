@@ -75,7 +75,7 @@ test’;alert(‘XSS’);’
 ###
 
 ```
-javascript:alert(1)
+javascript:alert()
 ```
 ### 
 ```
