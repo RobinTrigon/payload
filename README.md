@@ -6,8 +6,7 @@
 ```
 ###
 ```
-<!--><Svg OnLoad=(confirm)(1)-->
-```
+<a href="https://evil.com/ \"onclick="alert(1)">```
 ###
 ```
 <!--><Svg OnLoad=(confirm)(1)-->
