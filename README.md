@@ -2,7 +2,7 @@
 ###
 ###
 ```
-<!--><Svg OnLoad=(confirm)(1)-->
+"><svg onload=alert()
 ```
 ###
 ```
